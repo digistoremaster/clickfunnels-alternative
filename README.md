@@ -1,4 +1,3 @@
-
 # 🚀 How to Build a High-Converting Sales Funnel Without Monthly SaaS Bloat
 
 [![Category](https://img.shields.io/badge/Category-Marketing_Automation-blue.svg)](#)
